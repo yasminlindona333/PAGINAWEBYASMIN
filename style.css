@@ -1,0 +1,37 @@
+body {
+background-color: #f0f2f5;
+font-family: Arial, sans-serif;
+color: #333333;
+margin: 20px;
+}
+
+/* Estiliza o título principal (<h1>) */
+h1 {
+color: #0066cc;
+text-align: center;
+border-bottom: 2px solid #0066cc;
+padding-bottom: 10px;
+}
+
+/* Estiliza os parágrafos (<p>) */
+p {
+font-size: 16px;
+line-height: 1.6;
+}
+
+/* Cria um botão bonito e moderno */
+button, .botao {
+background-color: #2ea44f;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 6px;
+cursor: pointer;
+font-size: 14px;
+}
+
+/* Efeito visual quando passa o mouse por cima do botão */
+button:hover, .botao:hover {
+background-color: #2c974b;
+}
+
